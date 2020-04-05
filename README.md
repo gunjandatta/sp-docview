@@ -14,4 +14,4 @@ A sample project that creates a SharePoint webpart displaying documents.
 
 ## Demo
 
-![Demo](wiki/images/demo.png)
+![Demo](../wiki/images/demo.png)
